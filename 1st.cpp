@@ -12,3 +12,8 @@ int main(){
 //git commit .....the press i 
 //git config--global username "varshkumarisingh620@gmail.com"
 //git config--global useremail "github email"
+ 
+
+//git log
+//git checkout to move one to another version
+//git switch main (main ke ps aane ke liye)
